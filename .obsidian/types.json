@@ -1,0 +1,19 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "syntymäaika": "date",
+    "joukkueet": "multitext",
+    "ikäryhmä": "number",
+    "ikäluokka": "number",
+    "sukupuoli": "multitext",
+    "rooli": "multitext",
+    "roolit": "multitext",
+    "pelaajat": "multitext",
+    "alkupäivä": "date",
+    "loppupäivä": "date",
+    "virallinen": "checkbox",
+    "yhteyshenkilöt": "multitext"
+  }
+}
